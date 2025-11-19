@@ -86,3 +86,10 @@ make
 ## draw_green_circle
 
 - draw random numbers of circle
+
+## Evaluation
+**Before detection:**
+-![sth went wrong](build/green_circles_test.jpg)
+
+**After detection:**
+-![sth went wrong](build/postDetect.png)
