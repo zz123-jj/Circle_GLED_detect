@@ -89,7 +89,7 @@ make
 
 ## Evaluation
 **Before detection:**
--![sth went wrong](build/green_circles_test.jpg)
+-![sth went wrong](results/green_circles_test.jpg)
 
 **After detection:**
--![sth went wrong](build/postDetect.png)
+-![sth went wrong](results/postDetect.png)
