@@ -85,4 +85,4 @@ make
 
 ## draw_green_circle
 
-- draw radom numbers of circle
+- draw random numbers of circle
